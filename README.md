@@ -5,23 +5,19 @@ A sophisticated NLP-based system that analyzes user text and matches it with Fre
 ## Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/Screenshot_1.jpg)
-
-
-
+![Main Interface](https://github.com/Aliipou/culture-identifier/raw/main/Screenshot_1.png)
 *Beautiful, modern UI for text input with real-time word counting*
 
 ### Analysis Results
-
-![Analysis Results](screenshots/Screenshot_2.jpg)
+![Analysis Results](https://github.com/Aliipou/culture-identifier/raw/main/Screenshot_2.png)
 *Detailed cultural figure matches with similarity scores and explanations*
 
 ### Cultural Landscape Visualization
-![2D Projection](screenshots/Screenshot_3.jpg)
+![2D Projection](https://github.com/Aliipou/culture-identifier/raw/main/Screenshot_3.png)
 *Interactive 2D visualization showing your position in cultural space*
 
 ### Writing Analysis Dashboard
-![Writing Features](screenshots/Screenshot_4.jpg)
+![Writing Features](https://github.com/Aliipou/culture-identifier/raw/main/Screenshot_4.png)
 *Comprehensive linguistic feature analysis of your text*
 
 > **Note**: Screenshots show the application running on `http://localhost:5000` with backend on port `8080`
