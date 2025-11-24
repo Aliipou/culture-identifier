@@ -1,0 +1,12 @@
+Screenshots will be added here after running the application.
+
+To add screenshots:
+1. Run the application (see main README.md)
+2. Take screenshots of the main interface, results, and visualizations
+3. Save them in this directory with these exact names:
+   - main-interface.png
+   - analysis-results.png
+   - cultural-landscape.png
+   - writing-analysis.png
+
+See screenshots/README.md for detailed instructions.

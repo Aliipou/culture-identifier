@@ -1,0 +1,546 @@
+[
+  {
+    "name": "Albert Camus",
+    "category": "philosopher",
+    "period": "20th century (1913-1960)",
+    "themes": ["existential", "absurd", "human_condition", "freedom", "justice"],
+    "writing_style": "clear, accessible, narrative",
+    "texts": [
+      "The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy. We are condemned to be free, and in this freedom lies our greatest burden and our greatest opportunity.",
+      "In the midst of winter, I found there was, within me, an invincible summer. The absurd is the essential concept and the first truth. Man stands face to face with the irrational, longing for happiness and reason.",
+      "There is no love of life without despair of life. The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion."
+    ],
+    "recommendation": {
+      "book": "The Stranger",
+      "type": "novel",
+      "year": "1942"
+    }
+  },
+  {
+    "name": "Simone de Beauvoir",
+    "category": "philosopher",
+    "period": "20th century (1908-1986)",
+    "themes": ["existential", "political", "social", "human_condition", "freedom"],
+    "writing_style": "analytical, passionate, feminist",
+    "texts": [
+      "One is not born, but rather becomes, a woman. Freedom is not given, it is taken. The body is not a thing, it is a situation. We must refuse the false choice between submission and violence.",
+      "To lose confidence in one's body is to lose confidence in oneself. The point is not for women simply to take power out of men's hands, since that wouldn't change anything about the world. It's a question of destroying that notion of power.",
+      "All oppression creates a state of war. Woman is determined not by her hormones or by mysterious instincts, but by the manner in which her body and her relation to the world are modified through the action of others than herself."
+    ],
+    "recommendation": {
+      "book": "The Second Sex",
+      "type": "essay",
+      "year": "1949"
+    }
+  },
+  {
+    "name": "Jean-Paul Sartre",
+    "category": "philosopher",
+    "period": "20th century (1905-1980)",
+    "themes": ["existential", "freedom", "consciousness", "political", "human_condition"],
+    "writing_style": "dense, philosophical, complex",
+    "texts": [
+      "Man is condemned to be free; because once thrown into the world, he is responsible for everything he does. Existence precedes essence. We are our choices, nothing more, nothing less.",
+      "Hell is other people. Not because others are inherently evil, but because our freedom is limited by the gaze of others. We become objects under their scrutiny, losing our transcendence.",
+      "Freedom is what you do with what's been done to you. Consciousness is a being such that in its being, its being is in question insofar as this being implies a being other than itself."
+    ],
+    "recommendation": {
+      "book": "Being and Nothingness",
+      "type": "philosophy",
+      "year": "1943"
+    }
+  },
+  {
+    "name": "Michel Foucault",
+    "category": "philosopher",
+    "period": "20th century (1926-1984)",
+    "themes": ["political", "power", "knowledge", "social", "discourse"],
+    "writing_style": "analytical, historical, critical",
+    "texts": [
+      "Power is not an institution, nor a structure, nor a possession. It is the name we give to a complex strategic situation. Knowledge and power are integrated, not separate entities.",
+      "Discipline makes individuals; it is the specific technique of power that regards individuals as objects and instruments of its exercise. The prison is the ultimate expression of disciplinary power.",
+      "Where there is power, there is resistance. We must make the invisible visible, question what seems natural, and challenge the discourses that shape our subjectivity."
+    ],
+    "recommendation": {
+      "book": "Discipline and Punish",
+      "type": "philosophy",
+      "year": "1975"
+    }
+  },
+  {
+    "name": "Voltaire",
+    "category": "writer",
+    "period": "18th century (1694-1778)",
+    "themes": ["rational", "political", "social", "justice", "freedom"],
+    "writing_style": "satirical, witty, enlightenment",
+    "texts": [
+      "I disapprove of what you say, but I will defend to the death your right to say it. Reason and tolerance are the highest virtues. Common sense is not so common.",
+      "Those who can make you believe absurdities can make you commit atrocities. Judge a man by his questions rather than his answers. Prejudice is opinion without judgment.",
+      "The perfect is the enemy of the good. Think for yourselves and let others enjoy the privilege to do so too. Every man is guilty of all the good he did not do."
+    ],
+    "recommendation": {
+      "book": "Candide",
+      "type": "novel",
+      "year": "1759"
+    }
+  },
+  {
+    "name": "Marcel Proust",
+    "category": "writer",
+    "period": "20th century (1871-1922)",
+    "themes": ["memory", "time", "consciousness", "artistic", "social"],
+    "writing_style": "introspective, long sentences, stream of consciousness",
+    "texts": [
+      "Remembrance of things past is not necessarily the remembrance of things as they were. Time passes, and little by little everything that we have spoken in falsehood becomes true.",
+      "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes. We are healed of a suffering only by experiencing it to the full.",
+      "We are not provided with wisdom, we must discover it for ourselves, after a journey through the wilderness which no one else can take for us. Let us be grateful to people who make us happy."
+    ],
+    "recommendation": {
+      "book": "In Search of Lost Time",
+      "type": "novel",
+      "year": "1913"
+    }
+  },
+  {
+    "name": "Victor Hugo",
+    "category": "writer",
+    "period": "19th century (1802-1885)",
+    "themes": ["romantic", "social", "justice", "human_condition", "political"],
+    "writing_style": "dramatic, lyrical, humanitarian",
+    "texts": [
+      "To love another person is to see the face of God. Even the darkest night will end and the sun will rise. Music expresses that which cannot be said and on which it is impossible to be silent.",
+      "The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves. There is nothing like a dream to create the future.",
+      "To die is nothing; but it is terrible not to live. Laughter is the sun that drives winter from the human face. An invasion of armies can be resisted, but not an idea whose time has come."
+    ],
+    "recommendation": {
+      "book": "Les Misérables",
+      "type": "novel",
+      "year": "1862"
+    }
+  },
+  {
+    "name": "Émile Zola",
+    "category": "writer",
+    "period": "19th century (1840-1902)",
+    "themes": ["social", "political", "nature", "human_condition", "justice"],
+    "writing_style": "naturalistic, detailed, realist",
+    "texts": [
+      "If you ask me what I came to do in this world, I will tell you: I came to live out loud. The truth is on the march and nothing will stop it.",
+      "I am here to say what I think. The artist is nothing without the gift, but the gift is nothing without work. Civilization will not attain perfection until the last stone from the last church falls on the last priest.",
+      "I am little concerned with beauty or perfection. I want the truth. The more I work, the more I see life as an immense battlefield where destinies are determined by natural and social forces."
+    ],
+    "recommendation": {
+      "book": "Germinal",
+      "type": "novel",
+      "year": "1885"
+    }
+  },
+  {
+    "name": "Jean-Jacques Rousseau",
+    "category": "philosopher",
+    "period": "18th century (1712-1778)",
+    "themes": ["political", "nature", "freedom", "social", "education"],
+    "writing_style": "passionate, romantic, revolutionary",
+    "texts": [
+      "Man is born free, and everywhere he is in chains. The general will is always right and tends to the public advantage. Nature never deceives us; it is always we who deceive ourselves.",
+      "The world of reality has its limits; the world of imagination is boundless. Everything is good as it leaves the hands of the Author of things; everything degenerates in the hands of man.",
+      "To write a good love letter, you ought to begin without knowing what you mean to say, and finish without knowing what you have written. Patience is bitter, but its fruit is sweet."
+    ],
+    "recommendation": {
+      "book": "The Social Contract",
+      "type": "philosophy",
+      "year": "1762"
+    }
+  },
+  {
+    "name": "René Descartes",
+    "category": "philosopher",
+    "period": "17th century (1596-1650)",
+    "themes": ["rational", "consciousness", "knowledge", "method", "doubt"],
+    "writing_style": "methodical, clear, logical",
+    "texts": [
+      "I think, therefore I am. The first precept was never to accept a thing as true until I knew it as such without a single doubt. Doubt is the origin of wisdom.",
+      "It is not enough to have a good mind; the main thing is to use it well. Each problem that I solved became a rule which served afterwards to solve other problems.",
+      "If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things. The reading of all good books is like conversation with the finest minds of past centuries."
+    ],
+    "recommendation": {
+      "book": "Meditations on First Philosophy",
+      "type": "philosophy",
+      "year": "1641"
+    }
+  },
+  {
+    "name": "Gustave Flaubert",
+    "category": "writer",
+    "period": "19th century (1821-1880)",
+    "themes": ["artistic", "human_condition", "social", "romantic", "realism"],
+    "writing_style": "precise, aesthetic, realist",
+    "texts": [
+      "Be regular and orderly in your life, so that you may be violent and original in your work. The art of writing is the art of discovering what you believe.",
+      "One must always hope when one is desperate, and doubt when one hopes. The more beautiful the thing, the more absurd it seems. There is no truth. There is only perception.",
+      "Human speech is like a cracked kettle on which we tap crude rhythms for bears to dance to, while we long to make music that will melt the stars. Writing is a dog's life, but the only life worth living."
+    ],
+    "recommendation": {
+      "book": "Madame Bovary",
+      "type": "novel",
+      "year": "1856"
+    }
+  },
+  {
+    "name": "Blaise Pascal",
+    "category": "philosopher",
+    "period": "17th century (1623-1662)",
+    "themes": ["spiritual", "rational", "human_condition", "faith", "doubt"],
+    "writing_style": "aphoristic, profound, mathematical",
+    "texts": [
+      "The heart has its reasons which reason knows nothing of. Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.",
+      "We know the truth, not only by the reason, but also by the heart. All of humanity's problems stem from man's inability to sit quietly in a room alone.",
+      "In faith there is enough light for those who want to believe and enough shadows to blind those who don't. The eternal silence of these infinite spaces frightens me. Justice without force is powerless; force without justice is tyrannical."
+    ],
+    "recommendation": {
+      "book": "Pensées",
+      "type": "philosophy",
+      "year": "1670"
+    }
+  },
+  {
+    "name": "Marguerite Duras",
+    "category": "writer",
+    "period": "20th century (1914-1996)",
+    "themes": ["romantic", "memory", "desire", "human_condition", "language"],
+    "writing_style": "minimalist, poetic, intense",
+    "texts": [
+      "Very early in my life it was too late. Alcohol is a substitute for happiness. The best way to fill time is to waste it. You have to be very fond of men. Very, very fond. You have to be very fond of them to love them. Otherwise they're simply unbearable.",
+      "Words are like little pills. They go down easily. But once they're inside you, they expand. I've always written, always. Everywhere I've written. In planes, in trains.",
+      "Paradoxically, it's in the depths of despair that life reveals its essence to us. Writing is not describing, it's recreating from nothing. The thing that's between us is fascination."
+    ],
+    "recommendation": {
+      "book": "The Lover",
+      "type": "novel",
+      "year": "1984"
+    }
+  },
+  {
+    "name": "Arthur Rimbaud",
+    "category": "writer",
+    "period": "19th century (1854-1891)",
+    "themes": ["romantic", "artistic", "rebellion", "visionary", "symbolism"],
+    "writing_style": "revolutionary, vivid, symbolist",
+    "texts": [
+      "I is another. One must be absolutely modern. Life is the farce we all must play. The poet makes himself a seer by a long, prodigious, and rational disordering of all the senses.",
+      "I have stretched ropes from steeple to steeple; garlands from window to window; golden chains from star to star, and I dance. Only divine love bestows the keys of knowledge.",
+      "Idle youth, enslaved to everything; by being too sensitive I have wasted my life. I went into the sun and sea, into the crowd, into the night. I have found truth at last."
+    ],
+    "recommendation": {
+      "book": "A Season in Hell",
+      "type": "poetry",
+      "year": "1873"
+    }
+  },
+  {
+    "name": "Montaigne",
+    "category": "philosopher",
+    "period": "16th century (1533-1592)",
+    "themes": ["human_condition", "rational", "skepticism", "self", "wisdom"],
+    "writing_style": "essayistic, conversational, personal",
+    "texts": [
+      "Que sais-je? What do I know? The greatest thing in the world is to know how to belong to oneself. We are, I know not how, double within ourselves.",
+      "Nothing is so firmly believed as that which is least known. My life has been full of terrible misfortunes, most of which never happened. The most certain sign of wisdom is cheerfulness.",
+      "Every man bears the whole stamp of the human condition. There is no conversation more boring than the one where everybody agrees. I speak the truth not so much as I would, but as much as I dare."
+    ],
+    "recommendation": {
+      "book": "Essays",
+      "type": "essay",
+      "year": "1580"
+    }
+  },
+  {
+    "name": "Honoré de Balzac",
+    "category": "writer",
+    "period": "19th century (1799-1850)",
+    "themes": ["social", "power", "ambition", "realism", "human_nature"],
+    "writing_style": "detailed, realistic, sociological",
+    "texts": [
+      "Behind every great fortune lies a great crime. All humanity is passion; without passion, religion, history, novels, art would be ineffectual. Power is not revealed by striking hard or often, but by striking true.",
+      "The more one judges, the less one loves. A mother's happiness is like a beacon, lighting up the future but reflected also on the past in the guise of fond memories.",
+      "Solitude is fine, but you need someone to tell you that solitude is fine. If we could but paint with the hand what we see with the eye. Laws are spider webs through which the big flies pass and the little ones get caught."
+    ],
+    "recommendation": {
+      "book": "La Comédie Humaine",
+      "type": "novel series",
+      "year": "1829-1850"
+    }
+  },
+  {
+    "name": "André Gide",
+    "category": "writer",
+    "period": "20th century (1869-1951)",
+    "themes": ["freedom", "morality", "self", "artistic", "human_condition"],
+    "writing_style": "introspective, moral, modernist",
+    "texts": [
+      "Man cannot discover new oceans unless he has the courage to lose sight of the shore. It is better to be hated for what you are than to be loved for what you are not.",
+      "Everything has been said before, but since nobody listens we have to keep going back and beginning all over again. Believe those who are seeking the truth; doubt those who find it.",
+      "Art is a collaboration between God and the artist, and the less the artist does the better. The true hypocrite is the one who ceases to perceive his deception, the one who lies with sincerity."
+    ],
+    "recommendation": {
+      "book": "The Immoralist",
+      "type": "novel",
+      "year": "1902"
+    }
+  },
+  {
+    "name": "Stendhal",
+    "category": "writer",
+    "period": "19th century (1783-1842)",
+    "themes": ["romantic", "ambition", "passion", "social", "psychology"],
+    "writing_style": "psychological, analytical, romantic",
+    "texts": [
+      "A novel is a mirror walking along a main road. One can acquire everything in solitude except character. Power, after love, is the first source of happiness.",
+      "Beauty is the promise of happiness. To describe happiness is to diminish it. The more a race is governed by its passions, the less it has acquired the habit of cautious and reasoned argument.",
+      "All religions are founded on the fear of the many and the cleverness of the few. In love, unlike most other passions, the recollection of what you have had and lost is always better than what you can hope for in the future."
+    ],
+    "recommendation": {
+      "book": "The Red and the Black",
+      "type": "novel",
+      "year": "1830"
+    }
+  },
+  {
+    "name": "Colette",
+    "category": "writer",
+    "period": "20th century (1873-1954)",
+    "themes": ["nature", "sensuality", "freedom", "feminine", "love"],
+    "writing_style": "sensuous, vivid, intimate",
+    "texts": [
+      "Be happy. It's one way of being wise. What a wonderful life I've had! I only wish I'd realized it sooner. It is not a bad thing that children should occasionally, and politely, put parents in their place.",
+      "The woman who thinks she is intelligent demands equal rights with men. A woman who is intelligent does not. Total absence of humor renders life impossible.",
+      "You will do foolish things, but do them with enthusiasm. On this narrow planet, we have only the choice between two unknown worlds. My true friends have always given me that supreme proof of devotion."
+    ],
+    "recommendation": {
+      "book": "Gigi",
+      "type": "novel",
+      "year": "1944"
+    }
+  },
+  {
+    "name": "Charles Baudelaire",
+    "category": "writer",
+    "period": "19th century (1821-1867)",
+    "themes": ["artistic", "melancholy", "beauty", "decadence", "urban"],
+    "writing_style": "lyrical, dark, symbolist",
+    "texts": [
+      "Always be a poet, even in prose. To be a great man and a saint for oneself, that is the only important thing. Inspiration comes of working every day.",
+      "Evil is committed without effort, naturally, fatally; goodness is always the product of some art. The unique and supreme pleasure of love lies in the certainty of doing evil.",
+      "There are as many kinds of beauty as there are habitual ways of seeking happiness. Nature is a temple where living pillars sometimes give voice to confused words. The beautiful is always bizarre."
+    ],
+    "recommendation": {
+      "book": "Les Fleurs du Mal",
+      "type": "poetry",
+      "year": "1857"
+    }
+  },
+  {
+    "name": "Molière",
+    "category": "writer",
+    "period": "17th century (1622-1673)",
+    "themes": ["social", "human_nature", "hypocrisy", "comedy", "satire"],
+    "writing_style": "theatrical, satirical, classical",
+    "texts": [
+      "We are easily duped by those we love. The greater the obstacle, the more glory in overcoming it. It is not only what we do, but also what we do not do, for which we are accountable.",
+      "A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation. One should eat to live, not live to eat.",
+      "I prefer an accommodating vice to an obstinate virtue. Grammar, which can govern even kings. Nearly all men die of their medicines, not of their diseases."
+    ],
+    "recommendation": {
+      "book": "The Misanthrope",
+      "type": "play",
+      "year": "1666"
+    }
+  },
+  {
+    "name": "Georges Sand",
+    "category": "writer",
+    "period": "19th century (1804-1876)",
+    "themes": ["romantic", "social", "freedom", "nature", "feminism"],
+    "writing_style": "romantic, pastoral, idealistic",
+    "texts": [
+      "There is only one happiness in this life, to love and be loved. Guard well within yourself that treasure, kindness. Work is not man's punishment. It is his reward and his strength.",
+      "The capacity for passion is both cruel and divine. Faith is an excitement and an enthusiasm: it is a condition of intellectual magnificence to which we must cling as to a treasure.",
+      "Simplicity is the most difficult thing to secure in this world; it is the last limit of experience and the last effort of genius. Loving and being loved is the greatest happiness."
+    ],
+    "recommendation": {
+      "book": "Indiana",
+      "type": "novel",
+      "year": "1832"
+    }
+  },
+  {
+    "name": "Paul Valéry",
+    "category": "writer",
+    "period": "20th century (1871-1945)",
+    "themes": ["intellect", "consciousness", "artistic", "method", "language"],
+    "writing_style": "intellectual, precise, symbolic",
+    "texts": [
+      "A poem is never finished, only abandoned. The mind has transformed the world, and the world is repaying it with doubt. Science means simply the aggregate of all the recipes that are always successful.",
+      "God created man and, finding him not sufficiently alone, gave him a companion to make him feel his solitude more keenly. An artist never really finishes his work, he merely abandons it.",
+      "Politics is the art of preventing people from taking part in affairs which properly concern them. The purpose of psychology is to give us a completely different idea of the things we know best."
+    ],
+    "recommendation": {
+      "book": "La Jeune Parque",
+      "type": "poetry",
+      "year": "1917"
+    }
+  },
+  {
+    "name": "André Malraux",
+    "category": "writer",
+    "period": "20th century (1901-1976)",
+    "themes": ["political", "artistic", "human_condition", "action", "heroism"],
+    "writing_style": "intense, philosophical, epic",
+    "texts": [
+      "Man is not what he thinks he is, he is what he hides. The great mystery is not that we should have been thrown down here at random, but that we are here by some means of communication with this abyss.",
+      "Art is a revolt against fate. There is no ideal to which we can sacrifice ourselves, for all of them are lies. The mind supplies the idea of necessity, while the body provides the motive force for action.",
+      "Culture is the sum of all the forms of art, of love and of thought, which in the course of centuries have enabled man to be less enslaved. Often the difference between a successful person and a failure is not one has better abilities, but the courage that one has to bet on their ideas."
+    ],
+    "recommendation": {
+      "book": "Man's Fate",
+      "type": "novel",
+      "year": "1933"
+    }
+  },
+  {
+    "name": "Françoise Sagan",
+    "category": "writer",
+    "period": "20th century (1935-2004)",
+    "themes": ["love", "youth", "melancholy", "freedom", "pleasure"],
+    "writing_style": "elegant, detached, modern",
+    "texts": [
+      "To jealousy, nothing is more frightful than laughter. I have loved to the point of madness; That which is called madness, that which to me, is the only sensible way to love.",
+      "A dress makes no sense unless it inspires men to want to take it off you. Money may not buy happiness, but I'd rather cry in a Jaguar than on a bus. Writing is a question of finding a certain rhythm.",
+      "Every little girl knows about love. It is only her capacity to suffer because of it that increases. Jazz music is an intensified feeling of nonchalance. I like the ephemeral thing; I like the shops changing."
+    ],
+    "recommendation": {
+      "book": "Bonjour Tristesse",
+      "type": "novel",
+      "year": "1954"
+    }
+  },
+  {
+    "name": "Roland Barthes",
+    "category": "philosopher",
+    "period": "20th century (1915-1980)",
+    "themes": ["language", "semiotics", "culture", "text", "meaning"],
+    "writing_style": "analytical, semiotic, postmodern",
+    "texts": [
+      "The text is a tissue of quotations drawn from the innumerable centers of culture. Language is a skin: I rub my language against the other. What the public wants is the image of passion, not passion itself.",
+      "To try to write love is to confront the muck of language: that region of hysteria where language is both too much and too little, excessive and impoverished. The birth of the reader must be at the cost of the death of the author.",
+      "I think that cars today are almost the exact equivalent of the great Gothic cathedrals. Literature is the question minus the answer. The photograph is literally an emanation of the referent."
+    ],
+    "recommendation": {
+      "book": "Mythologies",
+      "type": "essay",
+      "year": "1957"
+    }
+  },
+  {
+    "name": "Jules Verne",
+    "category": "writer",
+    "period": "19th century (1828-1905)",
+    "themes": ["adventure", "science", "exploration", "imagination", "progress"],
+    "writing_style": "adventurous, scientific, visionary",
+    "texts": [
+      "Anything one man can imagine, other men can make real. Science, my boy, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.",
+      "We may brave human laws, but we cannot resist natural ones. The sea is everything. It covers seven tenths of the terrestrial globe. Its breath is pure and healthy.",
+      "Reality provides us with facts so romantic that imagination itself could add nothing to them. It is a great misfortune to be alone, my friends; and it must be believed that solitude can quickly destroy reason."
+    ],
+    "recommendation": {
+      "book": "Twenty Thousand Leagues Under the Sea",
+      "type": "novel",
+      "year": "1870"
+    }
+  },
+  {
+    "name": "Hélène Cixous",
+    "category": "writer",
+    "period": "20th-21st century (1937-present)",
+    "themes": ["feminine", "language", "body", "difference", "psychoanalysis"],
+    "writing_style": "experimental, poetic, feminist",
+    "texts": [
+      "Writing is the passageway, the entrance, the exit, the dwelling place of the other in me. Woman must write her self: must write about women and bring women to writing.",
+      "Everything will be changed once woman gives woman to the other woman. I am spacious, singing flesh, on which is grafted no one knows which I, more or less human, but alive because of transformation.",
+      "When I write, it's everything that we don't know we can be that is written out of me, without exclusions, without stipulation, and everything we will be calls us to the unflagging, intoxicating, unappeasable search for love."
+    ],
+    "recommendation": {
+      "book": "The Laugh of the Medusa",
+      "type": "essay",
+      "year": "1975"
+    }
+  },
+  {
+    "name": "Montesquieu",
+    "category": "philosopher",
+    "period": "18th century (1689-1755)",
+    "themes": ["political", "law", "liberty", "power", "government"],
+    "writing_style": "systematic, enlightenment, analytical",
+    "texts": [
+      "The tyranny of a prince in an oligarchy is not so dangerous to the public welfare as the apathy of a citizen in a democracy. Liberty is the right to do what the laws permit.",
+      "The deterioration of every government begins with the decay of the principles on which it was founded. An injustice committed against anyone is a threat to everyone.",
+      "To become truly great, one has to stand with people, not above them. There is no crueler tyranny than that which is perpetuated under the shield of law and in the name of justice."
+    ],
+    "recommendation": {
+      "book": "The Spirit of the Laws",
+      "type": "philosophy",
+      "year": "1748"
+    }
+  },
+  {
+    "name": "Guy de Maupassant",
+    "category": "writer",
+    "period": "19th century (1850-1893)",
+    "themes": ["realism", "human_nature", "society", "irony", "tragedy"],
+    "writing_style": "concise, realistic, ironic",
+    "texts": [
+      "It is the lives we encounter that make life worth living. Whether you are really right or really wrong doesn't matter; it's the belief that counts. Life is a slope that we climb until we die.",
+      "Let us never forget that the most beautiful thing in the world is a woman's face, but it's also the most terrifying. Every government has as much of a duty to avoid war as a ship's captain has to avoid a shipwreck.",
+      "Our memory is a more perfect world than the universe: it gives back life to those who no longer exist. A human being is a thinking reed. Patriotism is a kind of religion; it is the egg from which wars are hatched."
+    ],
+    "recommendation": {
+      "book": "Bel-Ami",
+      "type": "novel",
+      "year": "1885"
+    }
+  },
+  {
+    "name": "Anaïs Nin",
+    "category": "writer",
+    "period": "20th century (1903-1977)",
+    "themes": ["psychoanalysis", "feminine", "desire", "dreams", "self"],
+    "writing_style": "introspective, sensual, diary-like",
+    "texts": [
+      "We don't see things as they are, we see them as we are. Life shrinks or expands in proportion to one's courage. And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.",
+      "Love never dies a natural death. It dies because we don't know how to replenish its source. Each friend represents a world in us, a world possibly not born until they arrive.",
+      "Anxiety is love's greatest killer. It makes others feel as you might when a drowning man holds on to you. Writing is a deeper sleep than death. The only time I ever felt in my element was when I was creating."
+    ],
+    "recommendation": {
+      "book": "Delta of Venus",
+      "type": "short stories",
+      "year": "1977"
+    }
+  },
+  {
+    "name": "Antoine de Saint-Exupéry",
+    "category": "writer",
+    "period": "20th century (1900-1944)",
+    "themes": ["human_condition", "love", "responsibility", "adventure", "wisdom"],
+    "writing_style": "philosophical, poetic, allegorical",
+    "texts": [
+      "It is only with the heart that one can see rightly; what is essential is invisible to the eye. You become responsible forever for what you've tamed.",
+      "What makes the desert beautiful is that somewhere it hides a well. Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+      "A single event can awaken within us a stranger totally unknown to us. To live is to be slowly born. Love does not consist in gazing at each other, but in looking outward together in the same direction."
+    ],
+    "recommendation": {
+      "book": "The Little Prince",
+      "type": "novella",
+      "year": "1943"
+    }
+  }
+]

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cultural Personality Analyzer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@300;400;500;600&display=swap');
+
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Playfair Display', serif;
+        }
+
+        .fade-in {
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .spinner {
+            border: 3px solid rgba(0, 0, 0, 0.1);
+            border-left-color: #4f46e5;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-indigo-50 via-white to-purple-50 min-h-screen">
+    <div id="app" class="container mx-auto px-4 py-8 max-w-6xl">
+        <!-- Header -->
+        <header class="text-center mb-12">
+            <h1 class="text-5xl font-bold text-indigo-900 mb-4">Cultural Personality Analyzer</h1>
+            <p class="text-xl text-gray-600">Discover which French cultural figure your writing resembles</p>
+            <p class="text-sm text-gray-500 mt-2">Powered by advanced NLP and semantic analysis</p>
+        </header>
+
+        <!-- Input Section -->
+        <div class="bg-white rounded-2xl shadow-xl p-8 mb-8">
+            <h2 class="text-2xl font-semibold text-gray-800 mb-4">Share Your Thoughts</h2>
+            <p class="text-gray-600 mb-4">Write at least 150 words about any topic: your philosophy, reflections on life, observations about society, or creative thoughts.</p>
+
+            <textarea
+                id="userText"
+                rows="10"
+                class="w-full p-4 border-2 border-gray-300 rounded-lg focus:border-indigo-500 focus:outline-none transition-colors"
+                placeholder="Express your thoughts here... The more you write, the more accurate the analysis will be."
+            ></textarea>
+
+            <div class="flex items-center justify-between mt-4">
+                <div>
+                    <span id="wordCount" class="text-sm text-gray-500">0 words</span>
+                    <span id="charCount" class="text-sm text-gray-400 ml-4">0 characters</span>
+                </div>
+
+                <div class="flex gap-4">
+                    <select id="topK" class="px-4 py-2 border-2 border-gray-300 rounded-lg focus:border-indigo-500 focus:outline-none">
+                        <option value="3">Top 3 matches</option>
+                        <option value="5">Top 5 matches</option>
+                        <option value="10">Top 10 matches</option>
+                    </select>
+
+                    <button
+                        id="analyzeBtn"
+                        class="bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-8 py-2 rounded-lg transition-colors disabled:bg-gray-400 disabled:cursor-not-allowed"
+                        disabled
+                    >
+                        Analyze My Writing
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Loading State -->
+        <div id="loading" class="hidden text-center py-12">
+            <div class="spinner mx-auto mb-4"></div>
+            <p class="text-lg text-gray-600">Analyzing your writing...</p>
+            <p class="text-sm text-gray-500 mt-2">This may take a few seconds</p>
+        </div>
+
+        <!-- Results Section -->
+        <div id="results" class="hidden fade-in">
+            <!-- Processing Time -->
+            <div class="text-center mb-6">
+                <span class="text-sm text-gray-500">Analysis completed in <span id="processingTime" class="font-semibold"></span></span>
+            </div>
+
+            <!-- Matches -->
+            <div class="mb-8">
+                <h2 class="text-3xl font-semibold text-gray-800 mb-6">Your Cultural Matches</h2>
+                <div id="matchesContainer" class="space-y-6"></div>
+            </div>
+
+            <!-- Visualization -->
+            <div class="bg-white rounded-2xl shadow-xl p-8 mb-8">
+                <h2 class="text-2xl font-semibold text-gray-800 mb-4">Cultural Landscape</h2>
+                <p class="text-gray-600 mb-6">Your position in the cultural space (2D projection)</p>
+                <canvas id="projectionChart" width="400" height="300"></canvas>
+            </div>
+
+            <!-- User Summary -->
+            <div class="bg-white rounded-2xl shadow-xl p-8">
+                <h2 class="text-2xl font-semibold text-gray-800 mb-4">Your Writing Analysis</h2>
+                <div id="userSummary" class="grid grid-cols-2 md:grid-cols-3 gap-4"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
