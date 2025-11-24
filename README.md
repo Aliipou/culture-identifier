@@ -5,19 +5,23 @@ A sophisticated NLP-based system that analyzes user text and matches it with Fre
 ## Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/Screenshot_1.png)
+![Main Interface](screenshots/Screenshot_1.jpg)
+
+
+
 *Beautiful, modern UI for text input with real-time word counting*
 
 ### Analysis Results
-![Analysis Results](screenshots/Screenshot_2.png)
+
+![Analysis Results](screenshots/Screenshot_2.jpg)
 *Detailed cultural figure matches with similarity scores and explanations*
 
 ### Cultural Landscape Visualization
-![2D Projection](screenshots/Screenshot_3.png)
+![2D Projection](screenshots/Screenshot_3.jpg)
 *Interactive 2D visualization showing your position in cultural space*
 
 ### Writing Analysis Dashboard
-![Writing Features](screenshots/wScreenshot_4.png)
+![Writing Features](screenshots/Screenshot_4.jpg)
 *Comprehensive linguistic feature analysis of your text*
 
 > **Note**: Screenshots show the application running on `http://localhost:5000` with backend on port `8080`
