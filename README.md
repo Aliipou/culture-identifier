@@ -139,6 +139,24 @@ culture-identifier/
 
 ---
 
+
+---
+
+## Screenshots
+
+### Main Interface
+![Main Interface](https://github.com/Aliipou/culture-identifier/raw/main/Screenshot_5.jpg)
+*Text input with real-time character count and language hints*
+
+### Analysis Results
+![Analysis Results](https://github.com/Aliipou/culture-identifier/raw/main/Screenshot_2.jpg)
+*Ranked cultural figure matches with similarity scores and style explanations*
+
+### Match Detail View
+![Match Detail](https://github.com/Aliipou/culture-identifier/raw/main/Screenshot_1.jpg)
+*Detailed breakdown of stylistic features driving the match*
+
+---
 ## Tech Stack
 
 | Component | Technology |
