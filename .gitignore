@@ -17,3 +17,8 @@ htmlcov/
 .mypy_cache/
 .ruff_cache/
 *.log
+
+# Internal workflow files
+CLAUDE.md
+ANTI_GARBAGE_CHECKLIST.md
+run.bat
