@@ -118,3 +118,9 @@ async def root():
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
+
+
+@app.get("/health")
+async def health():
+    """Top-level health endpoint for load balancers and container probes."""
+    return {"status": "ok"}
