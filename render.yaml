@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: culture-identifier-backend
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn backend.app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.0
+      - key: DATASET_PATH
+        value: data/cultural_figures/dataset.json
+      - key: INDEX_PATH
+        value: data/faiss_index.bin
+      - key: METADATA_PATH
+        value: data/metadata.json
