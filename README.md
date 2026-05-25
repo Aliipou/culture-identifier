@@ -1,5 +1,10 @@
 # Cultural Personality Analyzer
 
+
+## Live Demo
+**Frontend:** [https://culture-identifier.vercel.app](https://culture-identifier.vercel.app)
+**API:** [https://culture-identifier-backend.onrender.com/api/health](https://culture-identifier-backend.onrender.com/api/health)
+
 Match your writing style and intellectual voice to iconic French philosophers, writers, and artists — using sentence embeddings and cosine similarity, no API key required.
 
 ---
