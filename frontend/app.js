@@ -1,5 +1,5 @@
 // API Configuration
-const API_BASE_URL = 'http://localhost:8080/api';
+const API_BASE_URL = window.CULTURE_API_URL || 'https://culture-identifier-backend.onrender.com/api';
 
 // DOM Elements
 const userTextArea = document.getElementById('userText');
